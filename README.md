@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @volume-up
+- 👀 I’m interested in Java / TypeScript / vue / react
+- 🌱 I’m currently learning react / JavaScript
+- 💞️ I’m looking to collaborate on Jointly research advanced technology
+- 📫 How to reach me QQ Email: 969698441@qq.com
